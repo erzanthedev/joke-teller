@@ -13,6 +13,12 @@ Welcome to the Joke Teller! This project is a fun and interactive web applicatio
 1. **Fetch a Joke**: The application uses an asynchronous function to call a joke API, retrieving a random joke.
 2. **Text-to-Speech**: The fetched joke is then passed to a Text-to-Speech API, which vocalizes the joke for you to hear.
 
+## Technologies Used 🛠️
+
+- **HTML**: For structuring the application layout.
+- **CSS**: For styling the application and ensuring a polished look.
+- **JavaScript**: For adding interactivity and handling the joke fetching and text-to-speech functionality.
+
 ## Project Structure 📂
 
 ```
@@ -20,20 +26,15 @@ Welcome to the Joke Teller! This project is a fun and interactive web applicatio
 │
 ├── index.html         # The main HTML file
 ├── styles.css         # The CSS file for styling
-└── script.js          # The JavaScript file for functionality
+├── script.js          # The JavaScript file for functionality
+└── voice.js           # The JavaScript file for text-to-speech functionality
 ```
 
 ## Get Started 🚀
 
-Clone the repository and open `index.html` in your browser to start using the Joke Teller.
-If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
-
-Enjoy the laughs! 🎉
+Clone the repository and open `index.html` in your browser to start using the Joke Teller. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub. Enjoy the laughs! 🎉
 
 ---
 
-Feel free to explore the code and contribute to making the Joke Teller even better! If you have any questions or feedback, don't hesitate to reach out.
-Happy coding and happy joking!
-
-😂 joke-teller
+Feel free to explore the code and contribute to making the Joke Teller even better! If you have any questions or feedback, don't hesitate to reach out. Happy coding and happy joking! 😂
 
